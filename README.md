@@ -37,9 +37,13 @@
  1.  **You can verify if codedeploy is running from this command in EC2 instance**
      ```sudo service codedeploy-agent status```
 
-**References**:
- https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-create.html <br/>
+**References**: \
+ https://aws.amazon.com/codecommit/ \
+ https://aws.amazon.com/codepipeline/ \
+ https://aws.amazon.com/codebuild/ \
+ https://aws.amazon.com/codedeploy/ \
+ https://aws.amazon.com/cloud9/ \
+ https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-create.html  \
  https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-iam-instance-profile.html#getting-started-create-iam-instance-profile-console
- 
  
  
