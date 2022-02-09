@@ -39,13 +39,17 @@
      ```sudo service codedeploy-agent status```
 
 **References**: \
-Please read some of these references
+Please read some of these references \
  https://aws.amazon.com/codecommit/ \
  https://aws.amazon.com/codepipeline/ \
  https://aws.amazon.com/codebuild/ \
  https://aws.amazon.com/codedeploy/ \
  https://aws.amazon.com/cloud9/ \
  https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-create.html  \
- https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-iam-instance-profile.html#getting-started-create-iam-instance-profile-console
+ https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-iam-instance-profile.html#getting-started-create-iam-instance-profile-console \
+https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-linux.html
+
  
- 
+**Troubleshooting**: \
+https://forums.aws.amazon.com/message.jspa?messageID=758542  \
+https://forums.aws.amazon.com/thread.jspa?threadID=181032  \
