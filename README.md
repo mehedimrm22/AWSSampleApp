@@ -19,7 +19,6 @@
      sudo ./install auto<br/>
      sudo yum install -y python-pip<br/>
      sudo pip install awscli<br/>```
-
      ![alt text](https://github.com/prabhakar2020/aws_code_deploy/blob/master/UserData.png)<br/>
  1.  **Security groups: which enable port SSH port 22 and HTTP 80 for application**<br/>
      ![alt text](https://github.com/prabhakar2020/aws_code_deploy/blob/master/configureSecutiryGroup.png)<br/>     
