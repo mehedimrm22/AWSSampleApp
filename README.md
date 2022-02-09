@@ -9,16 +9,16 @@
  1.  **Choose AMI role as EC2CodeDeploy**<br/>
      ![alt text](https://github.com/prabhakar2020/aws_code_deploy/blob/master/ConfigureInstance.png)<br/>
  1.  **Choose User Data: for installing required packages.**<br/>
-     ```#!/bin/bash<br/>
-     sudo yum -y update<br/>
-     sudo yum -y install ruby<br/>
-     sudo yum -y install wget<br/>
-     cd /home/ec2-user<br/>
-     wget https://aws-codedeploy-eu-central-1.s3.eu-central-1.amazonaws.com/latest/install<br/>
-     sudo chmod +x ./install<br/>
-     sudo ./install auto<br/>
-     sudo yum install -y python-pip<br/>
-     sudo pip install awscli<br/>
+     ```#!/bin/bash
+     sudo yum -y update
+     sudo yum -y install ruby
+     sudo yum -y install wget
+     cd /home/ec2-user
+     wget https://aws-codedeploy-eu-central-1.s3.eu-central-1.amazonaws.com/latest/install
+     sudo chmod +x ./install
+     sudo ./install auto
+     sudo yum install -y python-pip<
+     sudo pip install awscli
      ```
      
      ![alt text](https://github.com/prabhakar2020/aws_code_deploy/blob/master/UserData.png)<br/>
