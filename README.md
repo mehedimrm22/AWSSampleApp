@@ -9,7 +9,8 @@
  1.  **Choose AMI role as EC2CodeDeploy**<br/>
      ![alt text](https://github.com/prabhakar2020/aws_code_deploy/blob/master/ConfigureInstance.png)<br/>
  1.  **Choose User Data: for installing required packages.**<br/>
-     ```#!/bin/bash
+ 2.  ```
+     #!/bin/bash
      sudo yum -y update
      sudo yum -y install ruby
      sudo yum -y install wget
