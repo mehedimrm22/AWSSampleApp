@@ -38,6 +38,7 @@
      ```sudo service codedeploy-agent status```
 
 **References**: \
+Please read some of these references
  https://aws.amazon.com/codecommit/ \
  https://aws.amazon.com/codepipeline/ \
  https://aws.amazon.com/codebuild/ \
