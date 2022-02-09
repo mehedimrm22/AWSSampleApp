@@ -34,7 +34,12 @@
  1.  **Add source, build, deploy stages**<br/>
  1.  **Try all the relevant AWS tools e.g. Cloud9, CodeCommit, CodeBuild, CodeDeploy and CodePipeline 
  (No worries if some of these do not work instantly we can always try later :)**<br/>
+ 1.  **You can verify if codedeploy is running from this command in EC2 instance**
+     ```sudo service codedeploy-agent status```
 
+**References**:
+ https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-create.html <br/>
+ https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-iam-instance-profile.html#getting-started-create-iam-instance-profile-console
  
  
  
