@@ -38,6 +38,9 @@
  1.  **You can verify if codedeploy is running from this command in EC2 instance**
      ```sudo service codedeploy-agent status```
 
+**Working app**: \
+ You should see the working application from here after succesussfully using above AWS services: http://3.67.92.10/ 
+
 **References**: \
 Please read some of these references \
  https://aws.amazon.com/codecommit/ \
