@@ -39,7 +39,7 @@
      ```sudo service codedeploy-agent status```
 
 **Working app**: \
- You should see the working application from here after succesussfully using above AWS services: http://3.67.92.10/ 
+ You should see the working application from here after succesussfully using above AWS services: http://3.122.59.14/
 
 **References**: \
 Please read some of these references \
